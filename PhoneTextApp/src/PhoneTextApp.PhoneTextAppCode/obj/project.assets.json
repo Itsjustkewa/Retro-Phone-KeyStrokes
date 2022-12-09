@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "PhoneTextApp.PhoneTextComponent/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PhoneTextApp.PhoneTextComponent.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PhoneTextApp.PhoneTextComponent.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhoneTextApp.PhoneTextComponent/1.0.0": {
+      "type": "project",
+      "path": "../PhoneTextApp.PhoneTextComponent/PhoneTextApp.PhoneTextComponent.csproj",
+      "msbuildProject": "../PhoneTextApp.PhoneTextComponent/PhoneTextApp.PhoneTextComponent.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "PhoneTextApp.PhoneTextComponent >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/itsjustkewa/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextAppCode/PhoneTextApp.PhoneTextAppCode.csproj",
+      "projectName": "PhoneTextApp.PhoneTextAppCode",
+      "projectPath": "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextAppCode/PhoneTextApp.PhoneTextAppCode.csproj",
+      "packagesPath": "/Users/itsjustkewa/.nuget/packages/",
+      "outputPath": "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextAppCode/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/itsjustkewa/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/PhoneTextApp.PhoneTextComponent.csproj": {
+              "projectPath": "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/PhoneTextApp.PhoneTextComponent.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

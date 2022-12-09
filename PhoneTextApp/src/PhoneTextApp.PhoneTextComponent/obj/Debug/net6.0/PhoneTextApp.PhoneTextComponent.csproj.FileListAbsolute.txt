@@ -1,0 +1,12 @@
+/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/bin/Debug/net6.0/PhoneTextApp.PhoneTextComponent.deps.json
+/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/bin/Debug/net6.0/PhoneTextApp.PhoneTextComponent.dll
+/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/bin/Debug/net6.0/PhoneTextApp.PhoneTextComponent.pdb
+/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/obj/Debug/net6.0/PhoneTextApp.PhoneTextComponent.csproj.AssemblyReference.cache
+/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/obj/Debug/net6.0/PhoneTextApp.PhoneTextComponent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/obj/Debug/net6.0/PhoneTextApp.PhoneTextComponent.AssemblyInfoInputs.cache
+/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/obj/Debug/net6.0/PhoneTextApp.PhoneTextComponent.AssemblyInfo.cs
+/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/obj/Debug/net6.0/PhoneTextApp.PhoneTextComponent.csproj.CoreCompileInputs.cache
+/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/obj/Debug/net6.0/PhoneTextApp.PhoneTextComponent.dll
+/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/obj/Debug/net6.0/refint/PhoneTextApp.PhoneTextComponent.dll
+/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/obj/Debug/net6.0/PhoneTextApp.PhoneTextComponent.pdb
+/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/obj/Debug/net6.0/ref/PhoneTextApp.PhoneTextComponent.dll
