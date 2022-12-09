@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextAppCode/PhoneTextApp.PhoneTextAppCode.csproj",
+      "projectUniqueName": "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/Retro-Phone-KeyStrokes/PhoneTextApp/src/PhoneTextApp.PhoneTextAppCode/PhoneTextApp.PhoneTextAppCode.csproj",
       "projectName": "PhoneTextApp.PhoneTextAppCode",
-      "projectPath": "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextAppCode/PhoneTextApp.PhoneTextAppCode.csproj",
+      "projectPath": "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/Retro-Phone-KeyStrokes/PhoneTextApp/src/PhoneTextApp.PhoneTextAppCode/PhoneTextApp.PhoneTextAppCode.csproj",
       "packagesPath": "/Users/itsjustkewa/.nuget/packages/",
-      "outputPath": "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextAppCode/obj/",
+      "outputPath": "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/Retro-Phone-KeyStrokes/PhoneTextApp/src/PhoneTextApp.PhoneTextAppCode/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/itsjustkewa/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/PhoneTextApp.PhoneTextComponent.csproj": {
-              "projectPath": "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/PhoneTextApp.PhoneTextComponent.csproj"
+            "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/Retro-Phone-KeyStrokes/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/PhoneTextApp.PhoneTextComponent.csproj": {
+              "projectPath": "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/Retro-Phone-KeyStrokes/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/PhoneTextApp.PhoneTextComponent.csproj"
             }
           }
         }

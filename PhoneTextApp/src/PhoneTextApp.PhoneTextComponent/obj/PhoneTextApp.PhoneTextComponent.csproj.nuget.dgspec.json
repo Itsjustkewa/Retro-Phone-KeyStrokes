@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/PhoneTextApp.PhoneTextComponent.csproj": {}
+    "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/Retro-Phone-KeyStrokes/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/PhoneTextApp.PhoneTextComponent.csproj": {}
   },
   "projects": {
-    "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/PhoneTextApp.PhoneTextComponent.csproj": {
+    "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/Retro-Phone-KeyStrokes/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/PhoneTextApp.PhoneTextComponent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/PhoneTextApp.PhoneTextComponent.csproj",
+        "projectUniqueName": "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/Retro-Phone-KeyStrokes/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/PhoneTextApp.PhoneTextComponent.csproj",
         "projectName": "PhoneTextApp.PhoneTextComponent",
-        "projectPath": "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/PhoneTextApp.PhoneTextComponent.csproj",
+        "projectPath": "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/Retro-Phone-KeyStrokes/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/PhoneTextApp.PhoneTextComponent.csproj",
         "packagesPath": "/Users/itsjustkewa/.nuget/packages/",
-        "outputPath": "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/obj/",
+        "outputPath": "/Users/itsjustkewa/Desktop/PersonalDevLog/PhoneText/Retro-Phone-KeyStrokes/PhoneTextApp/src/PhoneTextApp.PhoneTextComponent/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/itsjustkewa/.nuget/NuGet/NuGet.Config"
