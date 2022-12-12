@@ -25,15 +25,18 @@ Create a method that encodes words into sequence numbers, meaning that it return
 sequence of numbers that need to be pressed in order to form words
 
 Here are some examples for your first round of tests:
+
 DOJO = 36665666
 PYTEST = 799983377778
 TESTS = 833777787777
 
 Here are some more examples for your second round of tests. Note that you should use _ to separate different letters under the same number:
+
 CODE = 2226663_33
 PUZZLE = 7889999_999955533
 
 For the third round of tests, let's try out some phrases:
+
 I LIKE PYTHON = 4440555444553307999844666_66
 PAIR PROGRAMMING = 7244477707_777666477726_6444664
 
